@@ -1,7 +1,7 @@
 /*
- *Athor Khaled 
- *14/12/2018
-*/
+ *Author: Khaled 
+ *created:14/12/2018
+ */
 #include <Servo.h>                 
 #include <NewPing.h>       
 
